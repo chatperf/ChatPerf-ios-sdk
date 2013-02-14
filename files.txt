@@ -1,0 +1,2 @@
+ChatPerf : SDK 本体
+ChatPerfDemo : SDK を使ったデモ
